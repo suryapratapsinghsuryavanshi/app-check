@@ -4,7 +4,7 @@ const host = process.env.CODESPACES_HOST;
 
 app.get("/", (req, res) => {
     res.json({
-        msg: "Hello, Suryapratap!"
+        msg: "Hello, 1"
     });
 });
 
